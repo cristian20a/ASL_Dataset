@@ -1,2 +1,4 @@
 # ASL_Dataset
- This dataset is based on American Sign Language.
+This American Sign Language dataset was developed by Cristian Amaya and Victor Murray.
+The images were taken from students at UTEC (University of engineering and technology).
+The dataset was developed to implement a sign language translator. This project was based on Digital Image Processing and implemented in MATLAB.
