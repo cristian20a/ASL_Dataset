@@ -2,5 +2,5 @@ This is a dataset of images containing American Sign Language (ASL). The followi
 
 
 This project was done by Cristian Amaya and Victor Murray. 
-Contact email: cristian.amaya@utec.edu.pe
+Contact email: cristian.amaya@utec.edu.pe, vmurray@utec.edu.pe
 
